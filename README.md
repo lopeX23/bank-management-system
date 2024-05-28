@@ -30,3 +30,15 @@ Este proyecto es una aplicación de gestión de usuarios de un banco. Permite cr
 │       │   │           └── presentation
 │       │   │           │   └── BankUI.java
 │                       └── Main.java
+```
+## Instalación y Ejecución
+1. Clona el repositorio:
+```bash
+git clone <URL_DEL_REPOSITORIO>
+cd bank-management-system
+```
+2. Abre el proyecto en tu IDE (IntelliJ IDEA recomendado).
+3. Ejecuta la clase Main.java para iniciar la aplicación.
+
+## Nota del Desarrollador
+Este proyecto fue desarrollado por Edgar Saul Lopez Corrales, estudiante de Ingeniería Informática en la Universidad Mayor de San Simón (UMSS), como parte de su formación académica en el año 2024.
