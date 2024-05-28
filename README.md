@@ -34,7 +34,7 @@ Este proyecto es una aplicación de gestión de usuarios de un banco. Permite cr
 ## Instalación y Ejecución
 1. Clona el repositorio:
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/saux23/bank-management-system.git
 cd bank-management-system
 ```
 2. Abre el proyecto en tu IDE (IntelliJ IDEA recomendado).
